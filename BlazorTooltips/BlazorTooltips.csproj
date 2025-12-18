@@ -13,7 +13,7 @@
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>tooltips, bootstrap, blazor</PackageTags>
 		<PackageId>Omniacore.BlazorTooltips</PackageId>
-		<Version>9.0.9-pre.1</Version>
+		<Version>9.0.9</Version>
 		<PackageLicenseFile>license</PackageLicenseFile>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	</PropertyGroup>
